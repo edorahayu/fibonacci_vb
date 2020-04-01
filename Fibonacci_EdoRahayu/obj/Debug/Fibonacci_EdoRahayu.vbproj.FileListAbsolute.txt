@@ -1,0 +1,10 @@
+C:\Users\Designer\Documents\Visual Studio 2012\Projects\Fibonacci_EdoRahayu\Fibonacci_EdoRahayu\obj\Debug\Fibonacci_EdoRahayu.Form1.resources
+C:\Users\Designer\Documents\Visual Studio 2012\Projects\Fibonacci_EdoRahayu\Fibonacci_EdoRahayu\obj\Debug\Fibonacci_EdoRahayu.Resources.resources
+C:\Users\Designer\Documents\Visual Studio 2012\Projects\Fibonacci_EdoRahayu\Fibonacci_EdoRahayu\obj\Debug\Fibonacci_EdoRahayu.vbproj.GenerateResource.Cache
+C:\Users\Designer\Documents\Visual Studio 2012\Projects\Fibonacci_EdoRahayu\Fibonacci_EdoRahayu\bin\Debug\Program Fibonacci.exe.config
+C:\Users\Designer\Documents\Visual Studio 2012\Projects\Fibonacci_EdoRahayu\Fibonacci_EdoRahayu\bin\Debug\Program Fibonacci.exe
+C:\Users\Designer\Documents\Visual Studio 2012\Projects\Fibonacci_EdoRahayu\Fibonacci_EdoRahayu\bin\Debug\Program Fibonacci.pdb
+C:\Users\Designer\Documents\Visual Studio 2012\Projects\Fibonacci_EdoRahayu\Fibonacci_EdoRahayu\bin\Debug\Program Fibonacci.xml
+C:\Users\Designer\Documents\Visual Studio 2012\Projects\Fibonacci_EdoRahayu\Fibonacci_EdoRahayu\obj\Debug\Program Fibonacci.exe
+C:\Users\Designer\Documents\Visual Studio 2012\Projects\Fibonacci_EdoRahayu\Fibonacci_EdoRahayu\obj\Debug\Program Fibonacci.xml
+C:\Users\Designer\Documents\Visual Studio 2012\Projects\Fibonacci_EdoRahayu\Fibonacci_EdoRahayu\obj\Debug\Program Fibonacci.pdb
